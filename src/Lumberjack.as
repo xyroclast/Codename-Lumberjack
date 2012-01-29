@@ -12,7 +12,7 @@ package {
 	public class Lumberjack extends FlxGame {
 		public function Lumberjack() {
 			forceDebugger = true;
-			super(90, 60, Play, 4, 60, 60);
+			super(90, 60, Play, 10, 60, 60);
 		}
 	}
 }
